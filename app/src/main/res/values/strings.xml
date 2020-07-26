@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SignIn Template - Minimalist</string>
+    <string name="img_login">img_login</string>
+    <string name="main_text">Manage your \nteam\'s projects</string>
+    <string name="second_text">Project management and team\nwork\'s made easy.</string>
+    <string name="btn_get_started_title">Get Started</string>
+    <string name="edt_email">Email</string>
+    <string name="edt_password">Password</string>
+    <string name="sign_b_in_b">Sign <b>In</b></string>
+    <string name="signup">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="welcome_nback">Welcome\nBack</string>
+</resources>
